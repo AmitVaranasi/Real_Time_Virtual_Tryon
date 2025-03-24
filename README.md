@@ -1,5 +1,5 @@
 # Real_Time_Virtual_Tryon
-# Virtual Try-On Application 👕💇♂️
+# Virtual Try-On Application 👕💇
 
 A real-time virtual try-on application that allows users to try different hairstyles and shirts using augmented reality. Leverages semantic segmentation and facial landmarks for precise overlays.
 
